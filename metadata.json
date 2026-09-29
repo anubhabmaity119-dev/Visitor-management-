@@ -1,0 +1,6 @@
+{
+  "name": "Employee Visitor Registration System",
+  "description": "A MERN stack web application for reception staff, employees, visitors, and students to register, search, edit, delete, and export visitor records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
